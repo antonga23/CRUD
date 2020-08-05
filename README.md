@@ -36,3 +36,6 @@ $ python manage.py runserver
 ```bash
 $ python manage.py startapp Crud
 ```
+https://medium.com/@john.bagiliko/django-crud-web-application-77ef05af1f00  
+
+https://data-flair.training/blogs/django-crud-example/  
