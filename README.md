@@ -38,4 +38,5 @@ $ python manage.py startapp Crud
 ```
 https://medium.com/@john.bagiliko/django-crud-web-application-77ef05af1f00  
 
-https://data-flair.training/blogs/django-crud-example/  
+https://data-flair.training/blogs/django-crud-example/    
+https://www.digitalocean.com/community/tutorials/how-to-create-a-django-app-and-connect-it-to-a-database
