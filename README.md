@@ -10,16 +10,19 @@ To get it running on your local machine, follow the steps below:
 
 1. Run the commands below in your terminal:
 ```bash
-$ git clone https://github.com/john-bagiliko/CRUD.git 
+$ pip install Django==2.0.5 
+$ django-admin --version 
 ```
 2. 
 ```bash
-$ cd CRUD
+$ mkdir django_projects
+$ cd django_projects
 ```
 3. Install the requirements with the command below:
 
 ```bash
-$ pip install -r requirements.txt
+$ django-admin startproject CRUD
+$ cd CRUD
 ```
 4. Run the development server with
 
@@ -28,3 +31,8 @@ $ python manage.py runserver
 ```
 
 5. Launch your browser and navigate to http://localhost:8000/
+
+6.  
+```bash
+$ python manage.py startapp Crud
+```
